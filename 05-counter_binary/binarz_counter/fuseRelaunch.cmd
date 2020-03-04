@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/lab661/Documents/xbrhel06/Digital-electronics-1/05-counter_binary/binarz_counter/Top_tb00_isim_beh.exe" -prj "/home/lab661/Documents/xbrhel06/Digital-electronics-1/05-counter_binary/binarz_counter/Top_tb00_beh.prj" "work.Top_tb00" 
